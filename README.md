@@ -2,14 +2,13 @@
 ## Udacity Machine Learning Engineer Nanodegree
 ## Supervised Learning
 
-## Description
+### Description
 
-
-
+In this project, different supervised learning techniques have been explored with the aim of developing a model that can accurately predict whether an individual is earning more than $50K/yr and is therefore more likely to donate money to a non-profit organisation. An AdaBoost classifier was chosen as the most applicable model for this application and was fine-tuned to reach an accuracy of 87% on the test dataset. 
 
 ### Data
 
-The dataset used in this project is a modified census dataset consisting of approximately 32,000 datapoints, with 13 features each. It is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. The original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+The dataset used in this project is a modified version of the 1994 U.S. census dataset. It consists of approximately 32,000 datapoints, with 13 features each. The original dataset is hosted on [UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 **Features**
 - `age`: Age
