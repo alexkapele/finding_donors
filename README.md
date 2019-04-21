@@ -4,7 +4,7 @@
 
 ### Description
 
-In this project, different supervised learning techniques have been explored with the aim of developing a model that can accurately predict whether an individual is earning more than $50K/yr and is therefore more likely to donate money to a non-profit organisation. An AdaBoost classifier was chosen as the most applicable model for this application and was fine-tuned to reach an accuracy of 87% on the test dataset. 
+In this project, different supervised learning techniques have been explored with the aim of developing a model that can accurately predict whether an individual is earning more than $50K/yr and is therefore more likely to donate money to a non-profit organisation. An AdaBoost classifier was chosen as the most appropriate model for this application and was fine-tuned to reach an accuracy of 87% on the test dataset. 
 
 ### Data
 
